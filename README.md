@@ -24,6 +24,14 @@ Welcome to the **Python Game Collection** repository! This repository houses a c
   - Playable against another player.
   - User-friendly interface for gameplay.
 
+### 4. Rock-Paper-Scissors
+- **Description**: A simple implementation of the classic Rock-Paper-Scissors game where you play against the computer.
+- **Features**:
+  - User input for Rock, Paper, or Scissors.
+  - Random choice generation for the computer's move.
+  - Keeps track of and displays the number of wins for both the user and the computer.
+  - Allows the user to quit the game at any time by entering 'Q'.
+
 ## Getting Started
 
 ### Prerequisites
