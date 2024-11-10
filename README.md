@@ -1,6 +1,6 @@
 # Python Game Collection
 
-Welcome to the **Python Game Collection** repository! This repository houses a collection of classic games implemented in Python, including Sudoku, 8-Puzzle, and Tic-Tac-Toe. Each game showcases different algorithms and problem-solving techniques, making this repository a great resource for both game enthusiasts and programmers looking to enhance their understanding of game development in Python.
+Welcome to the Python Game Collection repository! This repository houses a collection of classic games implemented in Python, including Sudoku, 8-Puzzle, Tic-Tac-Toe, Rock-Paper-Scissors, and now Connect Four. Each game showcases different algorithms and problem-solving techniques, making this repository a great resource for both game enthusiasts and programmers looking to enhance their understanding of game development in Python.
 
 ## Games Included
 
