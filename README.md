@@ -32,6 +32,13 @@ Welcome to the **Python Game Collection** repository! This repository houses a c
   - Keeps track of and displays the number of wins for both the user and the computer.
   - Allows the user to quit the game at any time by entering 'Q'.
 
+### 5. Connect Four (AI vs. Player)
+- **Description**: A two-player game where the objective is to connect four of your pieces in a row, either horizontally, vertically, or diagonally. This version allows the player to compete against an AI powered by the minimax algorithm.
+- **Features**:
+  - Playable against an AI opponent.
+  - AI uses the minimax algorithm with alpha-beta pruning for optimal moves.
+  - The game ends when a player connects four pieces or the board is full.
+
 ## Getting Started
 
 ### Prerequisites
